@@ -1,0 +1,2 @@
+14e6fac7133cee666541cc701aed1847f54dab5282382b586799e1da5d159010  maayuan-issue-helper-skill-v0.1.0.zip
+360a464bdd05db32ba6de2c9f747d72437240637748bb2726e7b46aaac3dd9c8  maayuan-issue-helper-source-v0.1.0.zip
